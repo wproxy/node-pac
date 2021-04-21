@@ -1,6 +1,6 @@
 {
   "name": "node-pac",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "Node版pac脚本解析器",
   "scripts": {
     "test": "mocha test/index.test.js test/units -R spec -t 5000",
@@ -23,7 +23,6 @@
   },
   "homepage": "https://github.com/imweb/node-pac#node-pac",
   "dependencies": {
-    "netmask": "^1.0.6"
   },
   "engines": {
     "node": ">= 0.10.0"
