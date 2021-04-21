@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/imweb/node-pac#node-pac",
   "dependencies": {
+    "netmask": "^2.0.2"
   },
   "engines": {
     "node": ">= 0.10.0"
