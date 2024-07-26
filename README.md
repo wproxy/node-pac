@@ -1,8 +1,6 @@
 # node-pac
 [![node version](https://img.shields.io/badge/node.js-%3E=_0.10-green.svg?style=flat-square)](http://nodejs.org/download/)
-[![build status](https://img.shields.io/travis/imweb/node-pac.svg?style=flat-square)](https://travis-ci.org/imweb/node-pac)
 [![Test coverage](https://codecov.io/gh/imweb/node-pac/branch/master/graph/badge.svg?style=flat-square)](https://codecov.io/gh/imweb/node-pac)
-[![David deps](https://img.shields.io/david/imweb/node-pac.svg?style=flat-square)](https://david-dm.org/imweb/node-pac)
 [![License](https://img.shields.io/npm/l/node-pac.svg?style=flat-square)](https://www.npmjs.com/package/node-pac)
 
 Node版pac脚本解析器。
